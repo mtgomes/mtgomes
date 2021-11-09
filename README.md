@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Manuel T Gomes
-- 👀 I’m interested in automation and productivity
-- 🌱 I’m currently learning on how to become more productive and teaching people on to be better. I write about all I learn on [manueltgomes.com](https://manueltgomes.com)
-- 📫 How to reach me by email on manuel@manueltgomes.com or interact on [Twitter](http://twitter.com/manueltgomes)
+## Hi there 👋
 
-<!---
-mtgomes/mtgomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Manuel, and I live in sunny Portugal 🇵🇹
+I write a lot about Microsoft technology mainly and experiment a lot with other things as well.
+
+Here are somethings I'm working on:
+
+- ✍️ You can find my articles at https://manueltgomes.com/.
+- I also have some compendiums (in the making) and references over at my [GitHub Organization](https://github.com/manueltgomes)
+- I'm super proud to be a Super User at the [Power Automate Community](https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/76216).
+
+🎉 There's more coming up, but I don't want to spoil the surprise :).
