@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Manuel, and I live in sunny Portugal 🇵🇹
+
 I write a lot about Microsoft technology mainly and experiment a lot with other things as well.
 
 Here are somethings I'm working on:
