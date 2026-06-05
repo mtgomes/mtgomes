@@ -2,8 +2,10 @@
 
 I'm Manuel, and I live in sunny Portugal 🇵🇹
 
-I write a lot about Microsoft technology mainly and experiment a lot with other things as well.
+I write a lot about Microsoft technology and experiment a lot with other things as well. Basically everthing that sparks my interest.
 
-You can find my articles at https://manueltgomes.com/.
+You can find my articles at https://manueltgomes.com/. My email is manuel at the site :).
 
-PS: You'll probably see a drop in contributions below. I'm putting all my code on other platforms because of the latest policy changes to GitHub that made it unusable, not to mention the constant downtimes. I need a stable platform to work.
+I'm not a huge social person but you can find my rare posts in https://mastodon.social/@manueltgomes.
+
+Reach out! Happy to interact and learn a bit.
