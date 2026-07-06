@@ -1,11 +1,13 @@
-## Hi there 👋
+# Hi, I'm Manuel
 
-I'm Manuel, and I live in sunny Portugal 🇵🇹
+I build software and automation, and I write about it most days.
 
-I write a lot about Microsoft technology and experiment a lot with other things as well. Basically everthing that sparks my interest.
+People usually find me through automation, some process eating hours every week that they want gone. It rarely stops there. I automate it, teach the team to run it themselves, or build custom software when nothing off the shelf fits. Whatever actually solves the problem.
 
-You can find my articles at https://manueltgomes.com/. My email is manuel at the site :).
+I'm the founder of [Skillful Sardine](https://skillfulsardine.com), based in sunny Portugal, and I publish new articles daily at [manueltgomes.com](https://manueltgomes.com). You can reach me at manuel at that domain.
 
-I'm not a huge social person but you can find my rare posts in https://mastodon.social/@manueltgomes.
+These days I work mostly with Python, FastAPI, PostgreSQL and Docker, plus a lot of automation (Power Automate, n8n, Zapier). I like clean architecture, small sharp tools, and shipping things end to end.
 
-Reach out! Happy to interact and learn a bit.
+I'm not a huge social person, but I'm always happy to talk shop and learn something new. Reach out.
+
+Elsewhere as `@manueltgomes` on Mastodon, Bluesky, X, Threads, and Instagram.
